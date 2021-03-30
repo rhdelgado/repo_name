@@ -3,3 +3,4 @@
 #iepushot izmaiņas remote repozitorijā branchā
 
 #testing some fake code
+print("Hello")
